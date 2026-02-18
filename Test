@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product Information</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h2>Product Information</h2>
+
+    <div class="box">
+        <img src="https://via.placeholder.com/100" alt="Laptop">
+        <h3>Laptop</h3>
+        <p>Good quality laptop.</p>
+        <p>$800</p>
+        <a href="#">Buy Now</a>
+    </div>
+
+    <div class="box">
+        <img src="https://via.placeholder.com/100" alt="Headphone">
+        <h3>Headphone</h3>
+        <p>Clear sound headphone.</p>
+        <p>$120</p>
+        <a href="#">Buy Now</a>
+    </div>
+
+    <div class="box">
+        <img src="https://via.placeholder.com/100" alt="Smartwatch">
+        <h3>Smartwatch</h3>
+        <p>Smart digital watch.</p>
+        <p>$150</p>
+        <a href="#">Buy Now</a>
+    </div>
+
+</body>
+
+</html>

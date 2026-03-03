@@ -3,9 +3,6 @@
 
 <head>
     <title>Product Information</title>
-<<<<<<< HEAD
-    <link rel="stylesheet" href="Test.css">
-=======
 
     <style>
     body {
@@ -40,7 +37,6 @@ a {
     padding: 5px;
 }
 </style>
->>>>>>> f5f6676 (Lab Task 1 (MID))
 </head>
 
 <body>
@@ -48,11 +44,7 @@ a {
     <h2>Product Information</h2>
 
     <div class="box">
-<<<<<<< HEAD
-        <img src="https://via.placeholder.com/100" alt="Laptop">
-=======
         <img src="https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15-fc0355au/hp-15-fc0355au-04-500x500.webp" alt="Laptop">
->>>>>>> f5f6676 (Lab Task 1 (MID))
         <h3>Laptop</h3>
         <p>Good quality laptop.</p>
         <p>$800</p>
@@ -60,11 +52,7 @@ a {
     </div>
 
     <div class="box">
-<<<<<<< HEAD
-        <img src="https://via.placeholder.com/100" alt="Headphone">
-=======
         <img src="https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h111/h111-500x500.jpg" alt="Headphone">
->>>>>>> f5f6676 (Lab Task 1 (MID))
         <h3>Headphone</h3>
         <p>Clear sound headphone.</p>
         <p>$120</p>
@@ -72,11 +60,7 @@ a {
     </div>
 
     <div class="box">
-<<<<<<< HEAD
-        <img src="https://via.placeholder.com/100" alt="Smartwatch">
-=======
         <img src="https://www.startech.com.bd/image/cache/catalog/smart-watch/colmi/p28-plus/p28-plus-01-500x500.webp" alt="Smartwatch">
->>>>>>> f5f6676 (Lab Task 1 (MID))
         <h3>Smartwatch</h3>
         <p>Smart digital watch.</p>
         <p>$150</p>

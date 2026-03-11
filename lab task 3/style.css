@@ -1,0 +1,38 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f4f4;
+}
+
+.container{
+width:400px;
+margin:auto;
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+input{
+width:100%;
+padding:8px;
+margin:5px 0;
+}
+
+button{
+padding:10px 20px;
+margin-top:10px;
+cursor:pointer;
+}
+
+small{
+color:red;
+}
+
+#analyticsPanel{
+display:none;
+margin-top:20px;
+background:#eee;
+padding:10px;
+border-radius:5px;
+}
